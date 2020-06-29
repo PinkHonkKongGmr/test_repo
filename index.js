@@ -1,3 +1,3 @@
 (function () {
-	let a = 100;
+	let a = 0.001;
 })();
