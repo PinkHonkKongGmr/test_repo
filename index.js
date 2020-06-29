@@ -1,3 +1,3 @@
-(function(){
-    let a = 0;
-})()
+(function () {
+	let a = 10;
+})();
