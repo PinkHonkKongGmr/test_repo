@@ -1,4 +1,6 @@
 (function () {
-	let a = 0.001;
+
+	let c = 'letov';
+	let a = 0.0015;
 	let b = '';
 })();
