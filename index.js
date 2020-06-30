@@ -1,3 +1,3 @@
-let a = 0;
+let a = 10;
 
 const what = () => a ** 2;
