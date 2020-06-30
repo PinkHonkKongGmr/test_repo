@@ -3,4 +3,5 @@
 	let c = 'letov';
 	let a = 0.0015;
 	let b = '';
+	let bb = 11;
 })();
