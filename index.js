@@ -1,4 +1,4 @@
-let a = 10;
+let a = 1;
 
 const what = () => a ** 2;
 const newhat = () => {
